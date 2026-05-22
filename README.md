@@ -1,33 +1,99 @@
 <h1 align="center">Hi 👋, I'm Jai Lanjewar</h1>
-<h3 align="center">💻 Tech Stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jailanjewar45-ux&label=Profile%20views&color=0e75b6&style=flat" alt="jailanjewar45-ux" /> </p>
+<h3 align="center">
+🚀 Full Stack Developer | MERN Stack | AI & Robotics Enthusiast
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jailanjewar45-ux" alt="jailanjewar45-ux" /></a> </p>
-
-- 🚀 Full Stack Development **•MERN Stack (mongoDB, Express.js, React.js, Node.js) •flask + SQLite •REST APIs •React Native**
-
-- 🌱 I’m currently learning **•Advance system design •AI + Robotics integration •blockchain applications •Scalable Backend Architecture**
-
-- 🔗 Blockchain **• Smart contracts • Web3.js**
-
-- 🤖 Robotics & Embedded system **•Arduino •ESP32 • STM32 •Line Following & Maze solving Robots**
-
-- 🛠️ Project I've worked on **•Society management app •Offline Billing System with Barcode Support •Water Inventory and Delivery Management System •campus navigation system • roommate and rental platform •autonomus maze solving robot**
-
-- 📫 How to reach me **jailanjewar45@gmail.com**
-
-- ⚡ Fun fact **I love turning ideas into real World system - wrong full stack app to automation robots 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jai lanjewar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai lanjewar" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/440025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="440025" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%2B+Robotics+Explorer;Building+Real+World+Projects+🚀" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jailanjewar45-ux&show_icons=true&locale=en&layout=compact" alt="jailanjewar45-ux" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jailanjewar45-ux&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jailanjewar45-ux&show_icons=true&locale=en" alt="jailanjewar45-ux" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jailanjewar45-ux&theme=algolia&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+# 💫 About Me
+
+- 🚀 Full Stack Developer passionate about building scalable web applications  
+- 🌱 Currently learning **Advanced System Design, AI Integration & Blockchain**  
+- 🤖 Interested in **Robotics, Embedded Systems & Automation**  
+- 💡 Love turning ideas into real-world products  
+- 📫 Reach me at: **jailanjewar45@gmail.com**
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
+</p>
+
+### 🚀 Frameworks & Libraries
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,django" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,mysql,sqlite,arduino,vscode" />
+</p>
+
+---
+
+# 🔥 Projects
+
+🚀 **Society Management App**  
+📦 **Offline Billing System with Barcode Support**  
+💧 **Water Inventory & Delivery Management System**  
+🗺️ **Campus Navigation System**  
+🏠 **Roommate & Rental Platform**  
+🤖 **Autonomous Maze Solving Robot**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/jai-lanjewar" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://github.com/jailanjewar45-ux" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://www.topcoder.com/members/440025" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/topcoder/topcoder-original.svg" height="40" />
+</a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jailanjewar45-ux&show_icons=true&theme=tokyonight" height="180em" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailanjewar45-ux&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jailanjewar45-ux&theme=tokyonight" />
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💡 *"I enjoy building systems that combine software, automation, and real-world problem solving."*
+
+---
